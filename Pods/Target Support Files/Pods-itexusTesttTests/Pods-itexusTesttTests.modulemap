@@ -1,0 +1,6 @@
+framework module Pods_itexusTesttTests {
+  umbrella header "Pods-itexusTesttTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
